@@ -1,4 +1,4 @@
-# ttneckstd_shopingmall project with Clean Code!
+# ttneckstudio_shopingmall project with Clean Code!
 
 ### 1. 개발 환경
 - MySQL 8.0.31
